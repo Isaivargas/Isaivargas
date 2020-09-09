@@ -1,8 +1,6 @@
 # Hi Everybody 👋
 
 
-<!--
-**Isaivargas/Isaivargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I’m currently working on machine learning and deep learning projects
 🌱 I’m currently learning ROS ,Pytorch and Natural Language Processing
